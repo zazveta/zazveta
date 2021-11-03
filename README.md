@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Jesus Zazueta, future :mechanical_arm:	 Biomedical Engineer.
+- 👀 I’m interested Data Scientist, Machine Learning, and anything related to Bio-Programming. 
+- 🌱 I’m currently learning Java, mastering Python and currently finishing my residence project.
+- 📫 How to reach me: 
+  - :email: jesusazazueta@gmail.com 
+  - :bird: @Zazveta 
